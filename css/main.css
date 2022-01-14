@@ -17,12 +17,13 @@ body {
 }
 
 section {
-  background-color:  #ccc;
+  background-color: #ccc;
   padding: 2em;
 }
 
 h2 {
   margin: 0 0 1.5rem;
+  text-align: center;
 }
 
 ul {
@@ -33,7 +34,9 @@ ul {
 
 li {
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  margin-bottom: 1.5rem;
 }
 
 img {
@@ -58,4 +61,5 @@ a {
   background-color: #444;
   text-decoration: none;
   color: #fff;
+  padding: .5rem 1rem .6rem;
 }
