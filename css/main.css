@@ -48,3 +48,14 @@ hgroup {
 h3, h4 {
   margin: 0;
 }
+
+p {
+  width: 24rem;
+  margin: 0 auto 0 0;
+}
+
+a {
+  background-color: #444;
+  text-decoration: none;
+  color: #fff;
+}
